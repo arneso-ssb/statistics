@@ -4,5 +4,6 @@ jupyter
 matplotlib
 numpy
 pandas
+requests
 requests_html
 wheel
